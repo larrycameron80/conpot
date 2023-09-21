@@ -1,4 +1,4 @@
-gevent>=1.0
+gevent>=23.9.0
 pysnmp==4.3.9
 pysmi==0.1.3
 lxml
