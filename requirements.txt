@@ -1,4 +1,4 @@
-gevent>=1.0
+gevent>=25.4.1
 pysnmp==4.3.9
 pysmi==0.1.3
 lxml
@@ -22,3 +22,4 @@ pyghmi
 mixbox
 modbus-tk
 cpppo
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
